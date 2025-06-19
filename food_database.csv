@@ -1,0 +1,20 @@
+Food Name,Calories(Kcal/100g),Category
+fish,120,A
+beef,120,A
+egg soup,150,A
+bacon,40,A
+yogurt,60,B
+strawberry yogurt,50,B
+orange juice,50,B
+goat milk,240,B
+coke,1,B
+milk,150,B
+orange,21,F
+noodle,20,S
+rice,10,S
+bread,30,S
+fired noodles,60,S
+potato,15,V
+tomato,45,V
+cabbage,78,V
+eggplant,67,V
